@@ -52,8 +52,8 @@
 ## Output:
 ![image](https://github.com/Dhanush0143/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139841924/e9d9bcbf-dd73-4268-a40b-ea675c24a21d)
 
-### Name:
-### Register Number:
+### Name:Dhanush P
+### Register Number:23001835
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
